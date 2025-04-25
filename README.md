@@ -1,4 +1,4 @@
-#A small app built to practice Data Structures and Algorithms.
+# A small app built to practice Data Structures and Algorithms.
 
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
